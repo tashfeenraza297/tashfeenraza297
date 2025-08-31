@@ -22,35 +22,30 @@ Currently working on **Agentic AI systems for cybersecurity automation** and on 
 
 ## 💻 Tech Stack  
 
-### ⚙️ AI / ML / DL  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)  
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)  
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?logo=opencv&logoColor=white)  
+### 🛠️ Skills & Tools  
 
-### 🤖 GenAI / LLMs / RAG / Agents  
-![LangChain](https://img.shields.io/badge/LangChain-0FA295?logo=python&logoColor=white)  
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?logo=graph&logoColor=white)  
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)  
-![Groq](https://img.shields.io/badge/Groq-EF3C2D?logoColor=white)  
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white)  
-![LLaMA](https://img.shields.io/badge/LLaMA-000000?logo=meta&logoColor=white)  
+**Programming:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) 
 
-### ☁️ Cloud & DevOps  
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+**Machine Learning / Deep Learning:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) 
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-### 🧰 Backend & APIs  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)  
+**Web Frameworks / APIs:**  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-### 🗃️ Databases & Querying  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)  
+**Automation:**  
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white) 
+![n8n](https://img.shields.io/badge/n8n-1A1A1A?style=flat&logo=n8n&logoColor=white)
+
+**Version Control / Collaboration:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
