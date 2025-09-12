@@ -77,7 +77,7 @@ Currently working on **Agentic AI systems for cybersecurity automation** and on 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tashfeen-raza-2a8b35253)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/tashfeenraza297)  
 
-📧 Email: **your-email@example.com**  
+📧 Email: **razatashfeen045@gmail.com**  
 
 ---
 
