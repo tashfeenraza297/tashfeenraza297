@@ -14,7 +14,6 @@ Currently working on **Agentic AI systems for cybersecurity automation** and on 
 - 🔄 Agentic AI using LangChain + LangGraph  
 - 🧪 Prompt Engineering & Fine-tuning (Hugging Face)  
 - 🖼️ Computer Vision (CNNs, RNNs, Vision Transformers)  
-- ⚙️ MLOps (Docker, CI/CD, GitHub Actions)  
 - 🌐 API Development with FastAPI & Flask  
 - 🤖 Robotics & Rovers  
 
